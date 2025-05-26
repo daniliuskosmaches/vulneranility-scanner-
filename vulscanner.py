@@ -9,7 +9,7 @@ import json
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-CVE_API_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0?startIndex=0&resultsPerPage=2000&lastModStartDate={}"
+CVE_API_URL = "47132235-5f3f-44d3-81c8-24b8fc73d127"
 db_path = "vulns.db"
 report_dir = "reports"
 update_interval = 3600
