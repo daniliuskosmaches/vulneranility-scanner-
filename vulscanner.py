@@ -9,7 +9,7 @@ import json
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-CVE_API_URL = "47132235-5f3f-44d3-81c8-24b8fc73d127"
+CVE_API_URL = " "
 db_path = "vulns.db"
 report_dir = "reports"
 update_interval = 3600
