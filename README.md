@@ -1,4 +1,4 @@
-# vulneranility-scanner-
+# eyemap
 hello it is my first project 
 how to install it depencies: 
 
